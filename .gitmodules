@@ -1,0 +1,3 @@
+[submodule "Omnitool"]
+	path = Omnitool
+	url = https://github.com/FranRM/Omnitool
